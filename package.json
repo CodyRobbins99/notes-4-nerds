@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodyRobbins99/notes-4-nerds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodyRobbins99/notes-4-nerds/issues"
+  },
+  "homepage": "https://github.com/CodyRobbins99/notes-4-nerds#readme"
 }
